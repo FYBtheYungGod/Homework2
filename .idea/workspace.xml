@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="309d86e6-7e15-479b-bda8-7020e0e8e39a" name="Changes" comment="inital commit">
-      <change afterPath="$PROJECT_DIR$/src/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaleStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpeedLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stamps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Speedlight.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Homework2\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674747955317</updated>
       <workItem from="1674747956503" duration="1196000" />
-      <workItem from="1675177888007" duration="9857000" />
+      <workItem from="1675177888007" duration="11041000" />
     </task>
     <task id="LOCAL-00001" summary="inital commit">
       <created>1674748171210</created>
@@ -73,11 +68,43 @@
       <option name="project" value="LOCAL" />
       <updated>1674748171210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inital commit">
+      <created>1675386430562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675386430562</updated>
+    </task>
+    <task id="LOCAL-00003" summary="inital commit">
+      <created>1675386449387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675386449387</updated>
+    </task>
+    <task id="LOCAL-00004" summary="inital commit">
+      <created>1675386679896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675386679896</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inital commit" />
