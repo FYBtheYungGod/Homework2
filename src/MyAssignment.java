@@ -78,6 +78,21 @@ public class MyAssignment {
     }
 
 
+    public String everyOther(String word) {
+        String result = "";
+        for (int i = 0; i < word.length(); i += 2) {
+            result += word.charAt(i);
+        }
+        return result;
+    }
+
+    public String nonStart(String a, String b) {
+        String newA = a.substring(1);
+        String newB = b.substring(1);
+        String result = newA + newB;
+        return result;
+    }
+
 
 
 }
