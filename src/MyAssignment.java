@@ -93,6 +93,19 @@ public class MyAssignment {
         return result;
     }
 
+    public boolean powerOfTwo(int n) {
+        if (n == 0) { //this just checks if n is 0
+            return false;  // return it flase if it does
+        }
+        do {
+            if (n % 2 != 0) { // if the number return a remainder then it is odd
+                return false;
+            }
+            n = n / 2; // divdes n by 2
+        } while (n > 1); // repeat till you get one
+        return true;
+    }
+
 
 
 }
