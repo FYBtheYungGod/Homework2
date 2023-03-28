@@ -4,7 +4,7 @@ public class WeekendMethodHomework {
 
 
     }
-    public static String reverseDoubleChar(String str) { //
+    public static String reverseDoubleChar(String str) { // i dont understand i need help
         String result = "";
         for (int i = 0; i < str.length(); i++) {
             result += str.charAt(i) + "" + str.charAt(i);
