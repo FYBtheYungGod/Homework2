@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="309d86e6-7e15-479b-bda8-7020e0e8e39a" name="Changes" comment="inital commit">
+    <list default="true" id="309d86e6-7e15-479b-bda8-7020e0e8e39a" name="Changes" comment="intial commit.">
+      <change afterPath="$PROJECT_DIR$/src/Alphabetstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CylinderCalculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timeclock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Training.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekendMethodHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Whatistheanswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testingGrounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testinggroundpt2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,19 +45,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ladon/Desktop/Coding shit/Java shit/final post folder",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ladon/Desktop/Coding shit/Java shit/final post folder&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.WeekendMethodHomework">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Training" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Training" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekendMethodHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeekendMethodHomework" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Whatistheanswer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Whatistheanswer" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="schooltraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="schooltraining" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeekendMethodHomework" />
+        <item itemvalue="Application.Training" />
+        <item itemvalue="Application.Whatistheanswer" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.schooltraining" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +113,16 @@
       <option name="presentableId" value="Default" />
       <updated>1674747955317</updated>
       <workItem from="1674747956503" duration="1196000" />
-      <workItem from="1675177888007" duration="11041000" />
+      <workItem from="1675177888007" duration="11690000" />
+      <workItem from="1675955353656" duration="1105000" />
+      <workItem from="1676222295191" duration="15606000" />
+      <workItem from="1676660967017" duration="1215000" />
+      <workItem from="1676746432964" duration="629000" />
+      <workItem from="1676992604582" duration="2827000" />
+      <workItem from="1677165464426" duration="2308000" />
+      <workItem from="1677438040025" duration="3854000" />
+      <workItem from="1678556279618" duration="6082000" />
+      <workItem from="1679785183380" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="inital commit">
       <created>1674748171210</created>
@@ -89,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675386679896</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="intial commit.">
+      <created>1675387339114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675387339114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inital commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="inital commit" />
+    <MESSAGE value="intial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit." />
   </component>
 </project>
