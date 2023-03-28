@@ -23,7 +23,7 @@ Write a Java class that contains the completed methods and test them by calling 
  */
 
 
-public class WeekendMethodHomework {
+public class MyAssignment {
     public static void main( String []args){
         System.out.println(" hello ");
 
@@ -54,8 +54,28 @@ public class WeekendMethodHomework {
         return message;  // Returns the string
 
     }
+    public String missingFront(String str) { // starts method
+        if (str.length() <= 3) { // this takes the length of the string and if it is less than 3 it returns it empty
+            return "";
+        }
+        return str.substring(3); // this take a substring and makes return the remaining inputed word
+    }
+
+    public String swapEnds(String str) { // this uses the previous method as a stepping stone to complete
+
+        if (str.length() < 2) { // if the string length is less than 2 it just returns the string
+            return str;
+        }
 
 
+        char first = str.charAt(0); // take index of first character
+        char last = str.charAt(str.length() - 1); // takes index of the last character
+        String middle = str.substring(1, str.length() - 1); // takes everything the middle
+        String swapped = last + middle + first; // swaps the points
+
+
+        return swapped;
+    }
 
 
 
